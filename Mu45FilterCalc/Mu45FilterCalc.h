@@ -1,6 +1,6 @@
 
 //  mu45filters.h
-//  Created by lsd5k on 2/21/15.
+//  Created by Luke Dahl on 2/21/15.
 
 #ifndef __mu45filters__
 #define __mu45filters__
