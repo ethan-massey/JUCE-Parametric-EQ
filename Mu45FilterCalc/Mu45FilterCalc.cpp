@@ -1,7 +1,7 @@
 //
 //  mu45filters.cpp
 //
-//  Created by lsd5k on 2/21/15.
+//  Created by Luke Dahl on 2/21/15.
 //
 //
 
